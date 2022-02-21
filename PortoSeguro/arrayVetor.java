@@ -1,7 +1,7 @@
 package PortoSeguro;
 
 import java.util.Scanner;
-public class arrayVetor {
+public class ArrayVetor {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
