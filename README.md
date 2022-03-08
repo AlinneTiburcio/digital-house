@@ -1,1 +1,1 @@
-Quero mostrar meu desenvolvimento dia após dia na linguagem Java, e, me tornar uma desenvolvedora full stack.
+Estou alimentando esse repositório com os exercicios das aulas que tenho assistido.
